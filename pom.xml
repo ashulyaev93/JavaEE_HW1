@@ -30,6 +30,7 @@
 
   <build>
     <finalName>firstapp</finalName>
+    <!--ADD HERE-->
     <plugins>
       <plugin>
         <groupId>org.wildfly.plugins</groupId>
